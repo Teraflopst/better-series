@@ -59,15 +59,15 @@
 
 ## Tips
 
-#### 开机启动
+#### ➢ 开机启动
 添加应用程序到开机启动：“System Preferences” - “Users & Groups”（左下角）- “Login Items”。
 
-#### 网络共享
+#### ➢ 网络共享
 开启 Wi-Fi 共享：“System Preferences” - “Sharing” - 左侧勾选 “Internet Sharing”，右则选择 “以太网” (Ethernet)，勾选 WiFi。
 
 点击 “Wi-Fi Options” 选择 WPA2 可以设置密码。
 
-#### 显示、隐藏不可见文件
+#### ➣ 显示、隐藏不可见文件
 macOS 系统把以 `.` 开头命名的文件视为不可见文件，正常情况下是隐藏的，如 `.DS_Store` 和 `.gitignore`。
 
 ```bash
