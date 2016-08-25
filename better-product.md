@@ -48,6 +48,7 @@ Better Product 推荐和介绍优质的产品、服务和实用的在线工具�
 - [RegExr](http://regexr.com/)
 - [Tables Generatorhttp](www.tablesgenerator.com/)
 - RawGit
+- 二维码进阶：彩色、立体、动图
 
 ## 技巧
 #### Google

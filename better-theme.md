@@ -28,6 +28,7 @@ Better Theme 推荐舒适美观的主题、样式和图标。
 | ★★★ | [ColorSublime] | Sublime 配色集合 | 编辑器配色 | 提供 [Colorsublime plugin] |
 | ★★★ | [Color Themes] | [JetBrains] IDE 配色集合 | 编辑器配色 | IntelliJ IDEA, PhpStorm, PyCharm<br>RubyMine, WebStorm, AppCode. |
 | ★★★ | [Colour Schemes] | 多种编辑器配色集合 | 编辑器配色 | 作者：[Dayle Rees] |
+| ★★★ | Default Theme<br>[sidebar icons] | Sublime 默认主题侧边栏文件图标 | 编辑器主题 | 作者：Xavi Esteve |
 |网页/浏览器|||||
 | ★★★★ | [Wikiwand] | [Wikipedia][Wikipedia] 网页美化样式 | 网页样式<br>浏览器扩展 | 支持多种语言<br>有 iOS 应用 |
 | ★★★☆ | [DevTools Author] | Chrome 开发者工具配色 | 网页样式<br>浏览器扩展 | 多种配色 |
@@ -36,6 +37,10 @@ Better Theme 推荐舒适美观的主题、样式和图标。
 | ★★★ | [Alfred Theme List] | Mac 效率应用 Alfred 主题集合 | 应用主题 | [Packal 收集](http://www.packal.org/) |
 | ★★★☆ |[OmniFocus 透视图标][Perspective Icons] | 自定义 OF 的 Perspective 图标 | 应用图标 | OmniFocus 是最强大的 GTD 应用 |
 | ★★★☆ | [Monomite Icon Set] | 680+ 个 Yosemite 风格应用图标 | 应用图标 | [Dribbble](https://dribbble.com/shots/1819284-Monomite-Icon-Set) |
+
+
+
+
 
 注解：
 - Sublime 为 [Sublime Text] 的缩写
@@ -71,7 +76,7 @@ Better Theme 推荐舒适美观的主题、样式和图标。
 
 
 
-
+[sidebar icons]: http://xaviesteve.com/5300/sublime-text-3-sidebar-icons-default-theme/
 [Theme Creator]: https://chrome.google.com/webstore/detail/theme-creator-create-cust/ognfcdaekjfmdjhcjaacfapijblalleg
 
 [Alfred Theme List]: http://www.packal.org/theme-list

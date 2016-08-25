@@ -45,6 +45,7 @@
 | ★★★★★ | [iTerm][iterm] | 更好用的终端 | 免费 | # |
 | ★★★★★ | [Tower][tower] | Git 客户端 | [$39.50、$79.00][tower-price] | # |
 | ★★★★☆ | [MacVim][macvim] | Vim 编辑器 | 免费 | # |
+| ★★★☆ | [Skala Color] | Mac 取色器增强插件 | 免费 | # |
 |  |  |  |  | 待续... |
 
 
@@ -54,7 +55,7 @@
 [tower]: https://www.git-tower.com/buy
 [tower-price]: https://www.git-tower.com/
 [macvim]: http://macvim-dev.github.io/macvim/
-
+[Skala Color]: https://bjango.com/mac/skalacolor/
 
 
 ## Tips
