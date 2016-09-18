@@ -26,6 +26,7 @@ Chrome 平台扩展
 | ★★★★ | [Awesome Screenshot] | 强大的网页截图、批注 | 工具/图像 | [有 Chrome 应用][Awesome Screenshot App] |
 | ★★★★ | [右键搜] | 扩展浏览器右键菜单，超过 300 多种功能<br>超强的可定制性，设置可使用云存储。 | 效率 | # |
 | ★★★★ | [OneTab] | 将浏览器标签页存入一个列表，节省大量内存 | 工具 | # |
+| ★★★★ | [Toby] | 管理和归档浏览器标签页，节省内存 | 工具 | # |
 | ★★★☆ | [一键切换] | 网站间的快速切换，保留搜索内容继续搜索 | 效率 | # |
 | ★★★☆ | [Black Menu] <br>for Google™ | Google 服务一站式整合 | 效率 | # |
 | ★★★☆ | [Downloads] | 直接在浏览器工具栏管理下载内容 | 工具 | # |
@@ -47,6 +48,7 @@ Chrome 平台扩展
 [一键切换]: https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E5%88%87%E6%8D%A2/fknieppmhfgnjilnkdeoegocjkijpbfh
 
 [OneTab]: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+[Toby]: https://chrome.google.com/webstore/detail/hddnkoipeenegfoeaoibdmnaalmgkpip
 
 [LastPass]: https://lastpass.com/
 
